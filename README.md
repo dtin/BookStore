@@ -1,4 +1,4 @@
-# Mini Social Network
+# Mini Book Store
 
 ### What is this?
 This repo contains the source code of **Mini Book Store (Java Web)** and was finished in **1 week**.\
@@ -17,7 +17,6 @@ What you will need to run this project:
     <li>Tracking order history <strong>(Login was required)</strong>.</li>
     <li>Login</li>
     <li>What you can do with your account:</li>
-    <br>
     <ul>
         <li><strong>Admin:</strong></li>
         <ol>
